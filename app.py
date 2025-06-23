@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 from custom_transformers import CombinedAttributesAdder
 
+
 app = Flask(__name__)
 
 # Load model and pipeline
